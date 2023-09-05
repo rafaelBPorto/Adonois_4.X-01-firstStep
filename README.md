@@ -1,5 +1,10 @@
 # Primeiros passo Adonis 4.X
 
+Este projeto foi criado com base na video aula:
+
+[Iniciando com AdonisJS, um framework completo para NodeJS | Diego Fernandes
+](https://www.youtube.com/watch?v=aysgHRmzG3w)
+
 ## Criação do Projeto
   ```Bash
     $ adonis new [NOME_PROJETO] --api-only
